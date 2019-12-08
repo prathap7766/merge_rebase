@@ -1,4 +1,9 @@
 Hello this is merge file first line
 this is second line for m2 commmit
+<<<<<<< HEAD
 this is last before line for m3 commit
 this is last line for m4 commit 
+=======
+this is third line for f1 commit
+this is fourth line for f2 commit 
+>>>>>>> feature
